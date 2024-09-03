@@ -15,7 +15,7 @@ User-Friendly Interface: Provides a simple and intuitive interface for users to 
 
 Technologies Used:
 
-Blockchain: Ethereum, Hyperledger, or any other blockchain platform.
+Blockchain: Ethereum, Hyperledger.
 
 Smart Contracts: Solidity .
 
